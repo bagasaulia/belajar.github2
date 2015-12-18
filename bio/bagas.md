@@ -1,4 +1,6 @@
 ##Biodata
 
-* Asal daerah: Bekasi
+
 * Jurusan: Teknik Fisika
+* Universitas: Institut Teknologi Bandung
+* Fakultas: FTI
